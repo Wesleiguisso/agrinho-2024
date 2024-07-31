@@ -5,7 +5,7 @@
 
 }
 body{
-    background-color: aqua;
+    background-color: rgb(253, 253, 253);
     align-items: center;
     text-align: center;
 }
@@ -14,7 +14,7 @@ body{
     border-radius: 20%;
     align-items: center;
     text-align: center;
-    color: blue;
+    color: rgb(0, 0, 0);
     border: 2px solid black;
     padding: 20px, 20px, 20px, 20px;
     margin: 20px, 20px, 20px, 20px;
